@@ -12,6 +12,7 @@
     <h1>Plataforma de ONGS</h1>
     <nav>
       <ul>
+        <li><a href="index.html">Início</a></li
         <li><a href="projetos.html">Projetos</a></li>
         <li><a href="sobre.html">Sobre</a></li>
         <li><a href="contato.html">Contato</a></li>
@@ -134,12 +135,12 @@
 
   <main>
     <form id="formContato">
-      <label for="nome">Nome:Luan Silva Lourenço</label>
+      <label for="nome">Nome: Luan Silva Lourenço</label>
       <input type="text" id="nome" required>
-      <label for="email">Email:silvaluan124@gmail.com</label>
+      <label for="email">Email: silvaluan124@gmail.com</label>
       <input type="email" id="email" required>
-      <button type="submit">Enviar</button>
-    </form>
+     
+  </form>
   </main>
 
  </html>
