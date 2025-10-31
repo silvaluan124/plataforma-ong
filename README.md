@@ -40,7 +40,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Projetos - Plataforma ONG</title>
+ 
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -81,7 +81,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sobre - Plataforma ONG</title>
+  
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -117,7 +117,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contato - Plataforma ONG</title>
+
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
